@@ -15,3 +15,7 @@ do
   git push;
 done;
 ```
+
+Gildedrose copied from :
+
+https://github.com/emilybache/GildedRose-Refactoring-Kata.git

@@ -1,3 +1,9 @@
+/**
+ * Copied from:
+ * https://github.com/emilybache/GildedRose-Refactoring-Kata.git
+ * Thank you Emily!
+ */
+
 package com.gildedrose;
 
 class GildedRose {
