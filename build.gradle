@@ -1,4 +1,4 @@
-group 'xtc'
+group 'com.github.omegapoint'
 version '1.0-SNAPSHOT'
 
 apply plugin: 'java'
